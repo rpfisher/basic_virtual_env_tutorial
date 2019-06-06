@@ -44,7 +44,7 @@ Basic tutorial for git workflow practice and setting up python virtual environme
     
     
     A basic git workflow example:
-    First, we're going to walk through the basic github tutorial
+    First, we're going to walk through the basic github tutorial called Spoon-Knife
     https://guides.github.com/activities/forking/
     
     
