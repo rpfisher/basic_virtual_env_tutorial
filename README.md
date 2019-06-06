@@ -49,6 +49,9 @@ Basic tutorial for git workflow practice and setting up python virtual environme
     First, we're going to walk through the basic github tutorial
     https://guides.github.com/activities/forking/
     
+    Keeping your fork up to date:
+    https://gist.github.com/CristinaSolana/1885435
+    
     
     Next tutorial, based on this one:
     https://realpython.com/python-virtual-environments-a-primer/
