@@ -49,6 +49,11 @@ Basic tutorial for git workflow practice and setting up python virtual environme
     First, we're going to walk through the basic github tutorial
     https://guides.github.com/activities/forking/
     
+    A slightly more complete workflow walkthrough:
+    https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+    or
+    https://gist.github.com/Chaser324/ce0505fbed06b947d962
+    
     Keeping your fork up to date:
     https://gist.github.com/CristinaSolana/1885435
     
